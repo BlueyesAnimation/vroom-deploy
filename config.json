@@ -1,0 +1,8 @@
+{
+  "router": "osrm",
+  "osrm": {
+    "host": "router.project-osrm.org",
+    "port": 443,
+    "use_https": true
+  }
+}
