@@ -1,4 +1,4 @@
-FROM vroomvrp/vroom
+FROM ghcr.io/jeremyjv/vroom:latest
 
 WORKDIR /conf
 COPY ./config.json /conf/config.json
